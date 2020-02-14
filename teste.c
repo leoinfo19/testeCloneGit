@@ -12,5 +12,8 @@ int main(){
 
         printf("Idade:%d", a);
 
+        a += 1;
+        printf("Sua Idade original:%d\n", a);
+    
     return 0;
 }
